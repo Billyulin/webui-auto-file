@@ -1,0 +1,2 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+javafx_scenebuilder-2_0-windows.rar filter=lfs diff=lfs merge=lfs -text
